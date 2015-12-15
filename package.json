@@ -1,6 +1,6 @@
 {
   "name": "product-thumb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates the markup to generate a simple product thumbnail using React and Foundation classes",
   "main": "dist/index.js",
   "scripts": {
